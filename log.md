@@ -28,3 +28,43 @@
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+
+### Day 2: July 31, Monday
+
+**Today's Progress**: Initiated Project For linux Practice.
+
+**Thoughts** I have started learning linux few weeks ago. Trying to Practice with some real world projects.
+
+**Link(s) to work**
+1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
+2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+
+### Day 3: July 31, Monday
+
+**Today's Progress**: Initiated Project For linux Practice.
+
+**Thoughts** I have started learning linux few weeks ago. Trying to Practice with some real world projects.
+
+**Link(s) to work**
+1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
+2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+
+   ### Day 4: July 31, Monday
+
+**Today's Progress**: Initiated Project For linux Practice.
+
+**Thoughts** I have started learning linux few weeks ago. Trying to Practice with some real world projects.
+
+**Link(s) to work**
+1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
+2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+
+### Day 5: July 31, Monday
+
+**Today's Progress**: Initiated Project For linux Practice.
+
+**Thoughts** I have started learning linux few weeks ago. Trying to Practice with some real world projects.
+
+**Link(s) to work**
+1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
+2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
